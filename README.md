@@ -1,8 +1,10 @@
 "#README" 
 
 POC using Stratis QT Wallet as node - > 
+https://github.com/stratisproject/stratisX/releases/tag/v2.0.0.3
 
-Stratis.conf: 
+Stratis.conf can be found @ %AppData%Roaming\Stratis
+
 -----------------------------------------------------------------
 testnet=1
 
